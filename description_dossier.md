@@ -63,7 +63,12 @@ Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la 
 
 J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de force qui calcule la distance entre les noeuds ainsi que leurs poids et la force de leurs liens.
 
+Sur la totalité des occurences :
+
 ![similitudes](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_1.png)
+
+Sur des occurences strictement supérieures à 10 :
+![similitudes10](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_10.png)
 
 Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.
 
