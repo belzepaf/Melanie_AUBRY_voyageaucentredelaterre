@@ -41,11 +41,11 @@ Le dossier [csv_occurences](https://github.com/belzepaf/Melanie_AUBRY_voyageauce
 
 #### Résumé
 
-Nombre de textes : 45
-Nombre d'occurrences : 71600
-Nombre de formes : 5663
-Nombre d'appax : 2423 (3,38% des occurrences - 42,79% des formes)
-Moyenne d'occurence par texte : 1591.11
+* Nombre de textes : 45
+* Nombre d'occurrences : 71600
+* Nombre de formes : 5663
+* Nombre d'appax : 2423 (3,38% des occurrences - 42,79% des formes)
+* Moyenne d'occurence par texte : 1591.11
 
 ![resume](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/resume.PNG)
 
