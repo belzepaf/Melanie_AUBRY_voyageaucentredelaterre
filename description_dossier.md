@@ -39,6 +39,15 @@ Le dossier [csv_occurences](https://github.com/belzepaf/Melanie_AUBRY_voyageauce
 * [formes_supplémentaires.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_suppl%C3%A9mentaires.csv) : peu pertinent
 * [total.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/total.csv) : regroupe les résultats des deux .csv précédents
 
+#### Résumé
+
+Nombre de textes : 45
+Nombre d'occurrences : 71600
+Nombre de formes : 5663
+Nombre d'appax : 2423 (3,38% des occurrences - 42,79% des formes)
+Moyenne d'occurence par texte : 1591.11
+
+![resume](/)
 
 ### Nuages de mots
 
