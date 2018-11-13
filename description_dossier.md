@@ -44,7 +44,7 @@ Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améli
 
 ## Fichier Question
 
-lien
+[Lien GitHub](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/question.md)
 
 ## Fichier Gephi
 
