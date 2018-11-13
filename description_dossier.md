@@ -20,9 +20,13 @@ A noter que :
 *nomvariable : crée une variable
 ~~~~
 
+[Lien vers la version .txt](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/voyageaucentredelaterreencode.txt)
+
 ## Version epub
 
-blabla
+Pour la version epub, je voulais la récupérer sur Wikisource également mais celui-ci n'étant pas disponible, je me suis rabattue sur le epub de [Feedbooks](http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre).
+
+[Lien vers la version .epub](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/Jules_Verne_Voyage_au_centre_de_la_Terre.epub)
 
 ## Visualisation de données
 
