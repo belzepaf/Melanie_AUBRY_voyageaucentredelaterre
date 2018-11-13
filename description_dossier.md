@@ -35,7 +35,7 @@ Pour la version epub, je voulais la récupérer sur Wikisource également mais c
 J'ai réalisé ce type d'analyse pour avoir plus de __lisibilité__. La *lemmatisation* permet de réduire les verbes à leurs formes infinitives. J'ai alors obtenu un schéma ainsi que plusieurs tableaux CSV permettant de voir la fréquence des mots dans l'oeuvre ainsi que leurs types (verbe, adjectif...).
 
 Le dossier [csv_occurences](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/tree/master/csv_occurences) contient 3 types de fichiers CSV :
-* [formes_actives.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_actives.csv) : le plus pertinent pour une analyse
+* [formes_actives.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_actives.csv) : le plus __pertinent__ pour une analyse
 * [formes_supplémentaires.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_suppl%C3%A9mentaires.csv) : peu pertinent
 * [total.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/total.csv) : regroupe les résultats des deux .csv précédents
 
