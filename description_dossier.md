@@ -38,7 +38,9 @@ Cette analyse n'apporte pas vraiment d'information pertinente par elle-même, ma
 
 Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la *cooccurence* (combien de fois des éléments apparaissent en même temps, présence simultanée de deux ou plusieurs mots dans un même énoncé - [Source](https://fr.wikipedia.org/wiki/Cooccurrence)). 
 
-J'ai choisi la présentation __fruchterman reingold__
+J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de force qui calcule la distance entre les noeuds ainsi que leurs poids et la force de leurs liens.
+
+Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.
 
 ## Fichier Question
 
