@@ -63,29 +63,29 @@ J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de
 
 Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la *cooccurence* (combien de fois des éléments apparaissent en même temps, présence simultanée de deux ou plusieurs mots dans un même énoncé - [Source](https://fr.wikipedia.org/wiki/Cooccurrence)). 
 
-Sur la totalité des occurences :
+* Sur la totalité des occurences :
 
 ![similitudes](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_1.png)
 
-Sur des occurences strictement supérieures à 10 :
+* Sur des occurences strictement supérieures à 10 :
 ![similitudes10](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_10.png)
 
 *Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.*
 
-Sur des occurences supérieures ou égales à 50 :
+* Sur des occurences supérieures ou égales à 50 :
 ![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
 
 #### Indice de Mountford
 
 Cet indice de Mountford note la force des affinités de 0 à 1. La comparaison est beaucoup plus simple car de type : présent/absent.
 
-Sur la totalité :
+* Sur la totalité :
 ![similitudesmountford](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford.png)
 
-Sur des occurences strictement supérieures à 10 :
+* Sur des occurences strictement supérieures à 10 :
 ![similitudesmountford10](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford10.png)
 
-Sur des occurences supérieures ou égales à 50 :
+* Sur des occurences supérieures ou égales à 50 :
 ![similitudesmountford50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford50.png)
 
 ### Analyse factorielle des correspondances
