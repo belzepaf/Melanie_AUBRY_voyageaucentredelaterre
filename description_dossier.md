@@ -32,7 +32,13 @@ Pour la version epub, je voulais la récupérer sur Wikisource également mais c
 
 ### Statistiques
 
-J'ai réalisé ce type d'analyse pour avoir plus de __lisibilité__. La *lemmatisation* permet de réduire les verbes à leurs formes infinitives. J'ai alors obtenu un shcéma aussi aussi un tableau qui permet de voir la fréquence des mots dans l'oeuvre ainsi que leurs types (verbe, adjectif...).
+J'ai réalisé ce type d'analyse pour avoir plus de __lisibilité__. La *lemmatisation* permet de réduire les verbes à leurs formes infinitives. J'ai alors obtenu un schéma ainsi que plusieurs tableaux CSV permettant de voir la fréquence des mots dans l'oeuvre ainsi que leurs types (verbe, adjectif...).
+
+Le dossier csv_occurences contient 3 types de fichiers CSV :
+* formes_actives.csv : le plus pertinent pour une analyse
+* formes_supplémentaires.csv : peu pertinent
+* total.csv : regroupe les résultats des deux .csv précédents
+
 
 ### Nuages de mots
 
