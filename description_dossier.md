@@ -42,10 +42,10 @@ J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de
 
 Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.
 
-## Fichier Question
-
-[Lien GitHub](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/question.md)
-
 ## Fichier Gephi
 
 fnjnze
+
+## Fichier Question Devoir
+
+[Lien GitHub](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/question.md)
