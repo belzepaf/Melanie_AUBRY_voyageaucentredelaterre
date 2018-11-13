@@ -6,7 +6,7 @@ Ce dossier est une analyse de l'oeuvre de fiction *Voyage au centre de la Terre*
 
 Afin de pouvoir obtenir la version .txt de l'oeuvre, je suis allée sur [Wikisource](https://fr.wikisource.org/wiki/Voyage_au_centre_de_la_Terre/Texte_entier).
 
-Par la suite, afin de pouvoir l'utiliser dans Iramuteq, j'ai __formaté__ le texte de façon à ce que celui-ci soit compatible, selon la syntaxe suivante :
+Par la suite, afin de pouvoir l'utiliser dans Iramuteq, j'ai créé des variables pour chaque chapitre puis aussi __formaté__ le texte de façon à ce que celui-ci soit compatible, selon la syntaxe suivante :
 
 ~~~~
 **** *chapitreX
