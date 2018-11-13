@@ -53,6 +53,8 @@ Le dossier [csv_occurences](https://github.com/belzepaf/Melanie_AUBRY_voyageauce
 
 Cette analyse n'apporte pas vraiment d'information pertinente par elle-même, mais je pense qu'il peut être intéressant de la __coupler avec un autre type d'analyse__ afin d'apporter un aspect visuel.
 
+![nuage](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/nuage_1.png)
+
 ### Analyses de similitudes
 
 Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la *cooccurence* (combien de fois des éléments apparaissent en même temps, présence simultanée de deux ou plusieurs mots dans un même énoncé - [Source](https://fr.wikipedia.org/wiki/Cooccurrence)). 
