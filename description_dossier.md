@@ -47,7 +47,7 @@ Nombre de formes : 5663
 Nombre d'appax : 2423 (3,38% des occurrences - 42,79% des formes)
 Moyenne d'occurence par texte : 1591.11
 
-![resume](/)
+![resume](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/resume.PNG)
 
 ### Nuages de mots
 
