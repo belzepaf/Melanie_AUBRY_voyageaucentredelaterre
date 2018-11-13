@@ -73,7 +73,7 @@ Sur des occurences strictement supérieures à 10 :
 *Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.*
 
 Sur des occurences supérieures ou égales à 50 :
-![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre)
+![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
 
 #### Mountford
 
