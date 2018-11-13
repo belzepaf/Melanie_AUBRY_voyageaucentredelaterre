@@ -4,7 +4,7 @@ Ce dossier est une analyse de l'oeuvre de fiction *Voyage au centre de la Terre*
 
 ## Version texte
 
-Blabla
+Afin de pouvoir obtenir la version .txt de l'oeuvre, je suis allée sur [Wikisource](https://fr.wikisource.org/wiki/Voyage_au_centre_de_la_Terre/Texte_entier).
 
 ## Version epub
 
