@@ -80,8 +80,12 @@ Sur des occurences supérieures ou égales à 50 :
 Cet indice de Mountford note la force des affinités de 0 à 1. La comparaison est beaucoup plus simple car de type : présent/absent.
 
 Sur la totalité :
+![similitudesmountford](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford.png)
 
-Sur un échantillon réduit de 50 termes :
+Sur des occurences strictement supérieures à 10 :
+![similitudesmountford10](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford10.png)
+
+Sur des occurences supérieures ou égales à 50 :
 ![similitudesmountford50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford50.png)
 
 ### Analyse factorielle des correspondances
