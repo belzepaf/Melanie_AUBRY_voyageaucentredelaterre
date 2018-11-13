@@ -57,11 +57,11 @@ Cette analyse n'apporte pas vraiment d'information pertinente par elle-même, ma
 
 ### Analyses de similitudes
 
-#### Fruchterman reingold
+J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de force qui calcule la distance entre les noeuds ainsi que leurs poids et la force de leurs liens.
+
+#### Indice de cooccurence
 
 Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la *cooccurence* (combien de fois des éléments apparaissent en même temps, présence simultanée de deux ou plusieurs mots dans un même énoncé - [Source](https://fr.wikipedia.org/wiki/Cooccurrence)). 
-
-J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de force qui calcule la distance entre les noeuds ainsi que leurs poids et la force de leurs liens.
 
 Sur la totalité des occurences :
 
@@ -75,9 +75,14 @@ Sur des occurences strictement supérieures à 10 :
 Sur des occurences supérieures ou égales à 50 :
 ![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
 
-#### Mountford
+#### Indice de Mountford
 
-Echantillon réduit (20 termes) ?
+Cet indice de Mountford note la force des affinités de 0 à 1. La comparaison est beaucoup plus simple car de type : présent/absent.
+
+Sur la totalité :
+
+Sur un échantillon réduit de 50 termes :
+![similitudesmountford50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford50.png)
 
 ### Analyse factorielle des correspondances
 
