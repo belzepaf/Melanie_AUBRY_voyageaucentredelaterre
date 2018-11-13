@@ -57,11 +57,31 @@ Cette analyse n'apporte pas vraiment d'information pertinente par elle-même, ma
 
 ### Analyses de similitudes
 
+#### Fruchterman reingold
+
 Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la *cooccurence* (combien de fois des éléments apparaissent en même temps, présence simultanée de deux ou plusieurs mots dans un même énoncé - [Source](https://fr.wikipedia.org/wiki/Cooccurrence)). 
 
 J'ai choisi la présentation __fruchterman reingold__ car c'est un algorithme de force qui calcule la distance entre les noeuds ainsi que leurs poids et la force de leurs liens.
 
+![similitudes](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_1.png)
+
 Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.
+
+#### Mountford
+
+Echantillon réduit (20 termes) ?
+
+### Analyse factorielle des correspondances
+
+Ce type d'analyse va transformer les données sous forme de graphique a 2 dimensions, montrant la différence entre chaque groupe ou chaque classe de mots dans le but de hiérarchiser les informations des textes. On utilise pour cela plusieurs paramètres comme la fréquence des mots ou encore le type de variables.
+
+Le graphique ci-dessous possède une __fréquence minimale de 10__ et les deux types de variables : __actives__ et __supplémentaires__. Il est peu lisible tellement les informations sont concentrées.
+![total](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/afcf_row.png)
+
+Ce second graphique est réalisé avec une __fréquence minimale de 60__ et un seul type de variable, les __variables actives__. L'information y est plus claire.
+![total](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/afcf_row10.png)
+
+On peut constater que selon les degrés de fréquence et de sélection des variables, on peut réaliser une analyse factorielle efficace. Il est même possible de réaliser une analyse par chapitre, car ceux-ci sont balisés en tant que modalités dans mon fichier .txt.
 
 ## Fichier Gephi
 
