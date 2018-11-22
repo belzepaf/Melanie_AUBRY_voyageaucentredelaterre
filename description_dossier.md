@@ -36,7 +36,7 @@ J'ai réalisé ce type d'analyse pour avoir plus de __lisibilité__. La *lemmati
 
 Le dossier [csv_occurences](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/tree/master/csv_occurences) contient 3 types de fichiers CSV :
 * [formes_actives.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_actives.csv) : le plus __pertinent__ pour une analyse
-* [formes_supplémentaires.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_suppl%C3%A9mentaires.csv) : peu pertinent
+* [formes_supplémentaires.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/formes_suppl%C3%A9mentaires.csv) : peu pertinent car uniquement des stopwords
 * [total.csv](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/csv_occurences/total.csv) : regroupe les résultats des deux .csv précédents
 
 #### Résumé
