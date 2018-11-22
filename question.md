@@ -19,4 +19,7 @@ evolution dans le temps ?
 
 ... exercice
 
+https://hal.archives-ouvertes.fr/hal-01624113/document
+
+https://archivesic.ccsd.cnrs.fr/sic_01220978/document
 
