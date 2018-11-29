@@ -1,6 +1,6 @@
 # Description du dossier
 
-Ce dossier est une analyse de l'oeuvre de fiction *Voyage au centre de la Terre* de Jules Verne. J'ai récupéré les données puis encodé l'œuvre de façon à ce que l'on puisse retrouver la structure des chapitres en introduisant une variable par chapitre. Par la suite, j'ai réalisé une analyse sur Iramuteq avec plusieurs types de visualisations et réalisé un compte-rendu ici-même.
+Ce dossier est une analyse de l'oeuvre de fiction *Voyage au centre de la Terre* de Jules Verne. J'ai récupéré les données puis encodé l'œuvre de façon à ce que l'on puisse retrouver la structure des chapitres en introduisant une variable par chapitre. Par la suite, j'ai réalisé une analyse sur Iramuteq avec plusieurs types de visualisations et réalisé un compte-rendu ici-même. Je n'ai pas pu utiliser Gephi ayant des problèmes avec Java sur mes deux ordinateurs.
 
 ## Version texte
 
@@ -70,7 +70,7 @@ Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la 
 * Sur des occurences strictement supérieures à 10 :
 ![similitudes10](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_10.png)
 
-*Cette analyse va me servir de base pour mon graphe sur Gephi, où je vais améliorer la visualisation.*
+*Cette analyse devait me servir de base pour mon graphe sur Gephi, où je voulais améliorer la visualisation.*
 
 * Sur des occurences supérieures ou égales à 50 :
 ![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
@@ -99,10 +99,6 @@ Ce second graphique est réalisé avec une __fréquence minimale de 60__ et un s
 ![total](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/afcf_row10.png)
 
 On peut constater que selon les degrés de fréquence et de sélection des variables, on peut réaliser une analyse factorielle efficace. Il est même possible de réaliser une analyse par chapitre, car ceux-ci sont balisés en tant que modalités dans mon fichier .txt.
-
-## Fichier Gephi
-
-fnjnze
 
 ## Fichier Question Devoir
 
