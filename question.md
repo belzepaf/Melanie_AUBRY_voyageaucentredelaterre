@@ -24,7 +24,7 @@ Tout comme il est important de préserver l'intégrité de l'information dans l'
 
 #### Disponibilité
 
-La donnée se retrouve structurée et plus facilement accessible et "classable". Autrefois, chercher quelquechose dans un ouvrage demandait beaucoup d'investissement personnel. Aujourd'hui, grâce à l'Internet, l'information devient accessible et utilisable par n'importe qui à n'importe endroit et n'importe quand.
+La donnée se retrouve structurée et plus facilement accessible et "classable". Autrefois, chercher quelquechose dans un ouvrage demandait beaucoup d'investissement personnel. Aujourd'hui, grâce à Internet, l'information devient accessible et utilisable par n'importe qui à n'importe endroit et n'importe quand.
 
 ### Aide logicielle à l'analyse : prometteur pour l'avenir
 
