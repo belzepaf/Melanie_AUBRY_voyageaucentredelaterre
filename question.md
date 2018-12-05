@@ -10,16 +10,31 @@ Comme dit dans l'introduction, Internet nous permet d'accéder facilement à l'i
 
 Il ne faut pas oublier non plus la notion d'échange et de partage. On entend souvent la culture numérique comme étant celle du partage entre les utilisateurs. C'est un point intéressant car en effet, les Humanités Digitales font partie de cette culture et donc intègrent parfaitement la collaboration et l'échange. L'entraide est essentielle, surtout lorsque l'on cherche de l'information, et la digitalisation des oeuvres apporte de nombreux avantages : entre l'indexation, la possibilité d'annoter, d'échanger... les possibilités sont multiples. La digitalisation des oeuvres est donc un plus pour l'évolution des Humanités Digitales, puisqu'elle propose de nouveaux moyens d'études avec comme principe la collaboration et le partage de l'information.
 
-### La disponibilité et la pérénnité des informations : des points essentiels
+### La pérénnité des informations : un point essentiel
 
-... Stockage
-evolution dans le temps ?
+L'intégrité, la traçabilité et la disponibilité de l'information sont des gages de pérénnité pour les Humanités Digitales. La digitalisation de l'oeuvre apporte sa part en matière de management de l'information, grâce notamment aux différents systèmes d'indexation et de référencement. 
+
+#### Intégrité - Sécurité
+
+Aujourd'hui l'information est maitrîsée. Hormis le fait de pouvoir autoriser certains accès ou non, la sécurité dans la digitalisation de l'oeuvre permet aussi de protéger l'intégrité de celle-ci. La donnée ou l'information dans une oeuvre ne peut être modifiée que par des personnes autorisées et selon un procédé défini. Ce qui est entièrement profitable aux Humanités Digitales, car la véracité de l'information est essentielle.
+
+#### Traçabilité
+
+Tout comme il est important de préserver l'intégrité de l'information dans l'oeuvre, la traçabilité est un point majeur. Il faut conserver toute trace de modification. Critère de gestion de l'information par excellence, la traçabilité permet à la digitalisation de l'oeuvre d'apporter une garantie de vérité aux Humanités Digitales et ainsi d'envisager de nouvelles perspectives fiables pour l'avenir.
+
+#### Disponibilité
+
+La donnée se retrouve structurée et plus facilement accessible et "classable". Autrefois, chercher quelquechose dans un ouvrage demandait beaucoup d'investissement personnel. Aujourd'hui, grâce à l'Internet, l'information devient accessible et utilisable par n'importe qui à n'importe endroit et n'importe quand.
 
 ### Aide logicielle à l'analyse : prometteur pour l'avenir
 
 ... exercice
+Comme nous avons pu le voir dans cet exercice, la digitalisation des oeuvres apporte une chose essentielle aux Humanités Digitales : la valorisation de l'information.
+
+### Webographie
 
 https://hal.archives-ouvertes.fr/hal-01624113/document
 
 https://archivesic.ccsd.cnrs.fr/sic_01220978/document
 
+http://info-attitude.com/4-criteres-fondamentaux-securite-information/
