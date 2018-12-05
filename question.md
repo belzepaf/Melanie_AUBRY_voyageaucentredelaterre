@@ -28,8 +28,11 @@ La donnée se retrouve structurée et plus facilement accessible et "classable".
 
 ### Aide logicielle à l'analyse : prometteur pour l'avenir
 
-... exercice
-Comme nous avons pu le voir dans cet exercice, la digitalisation des oeuvres apporte une chose essentielle aux Humanités Digitales : la valorisation de l'information.
+Comme nous avons pu le voir dans cet exercice, la digitalisation des oeuvres apporte une chose essentielle aux Humanités Digitales : la valorisation de l'étude de l'information. En plus d'apporter une analyse pertinente des oeuvres selon plus axes, l'analyse logicielle permet d'exploiter la digitalisation de l'oeuvre à son maximum, ce qui, pour les Humanités Digitales, est essentiel. Ici, Iramuteq nous a permis de réaliser des analyses statistiques sur un texte en particulier. Hors, on peut déjà imaginer travailler sur un corpus entier de textes à analyser, étudier leurs corrélations etc. 
+
+### Conclusion
+
+La digitalisation de l'oeuvre passe par l'exploitation de logiciels tiers pour en extraire et analyser les données. Les possibilités sont multiples, et nous pensons qu'il est encore possible de pousser cela plus loin. La question de la donnée est un point essentiel des Humanités Digitales. Par conséquent, la digitalisation de l'oeuvre ouvre de nombreuses portes aux Humanités Digitales, que ce soit comme ressources en matière de recherche, d'éducation, d'exploitation, d'entreprise, et bien d'autres.
 
 ### Webographie
 
