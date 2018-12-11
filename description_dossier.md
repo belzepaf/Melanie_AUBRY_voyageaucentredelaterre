@@ -76,7 +76,7 @@ Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la 
 ![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
 
 * Avec comme paramètre __multilevel.community__ ainsi que __Communautés__ et __halo__ d'actifs :
-![similitudesmot](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mot.png)
+![similitudesmot](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_3.png)
 
 
 #### Indice de Mountford
