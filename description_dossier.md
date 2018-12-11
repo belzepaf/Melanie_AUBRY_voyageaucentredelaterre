@@ -75,6 +75,10 @@ Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la 
 * Sur des occurences supérieures ou égales à 50 :
 ![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
 
+* Avec comme paramètre __multilevel.community__ ainsi que __Communautés__ et __halo__ d'actifs :
+![similitudesmot](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mot.png)
+
+
 #### Indice de Mountford
 
 Cet indice de Mountford note la force des affinités de 0 à 1. La comparaison est beaucoup plus simple car de type : présent/absent.
@@ -99,6 +103,19 @@ Ce second graphique est réalisé avec une __fréquence minimale de 60__ et un s
 ![total](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/afcf_row10.png)
 
 On peut constater que selon les degrés de fréquence et de sélection des variables, on peut réaliser une analyse factorielle efficace. Il est même possible de réaliser une analyse par chapitre, car ceux-ci sont balisés en tant que modalités dans mon fichier .txt.
+
+### Méthode Reinhert
+
+![dendrogramme](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/dendrogramme_1.svg)
+
+![similitudescolor](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/AFC2DL.png)
+
+#### Analyse d'un mot en particulier
+
+Analyse des cooccurences du mot __"savant"__ sur 2 chapitres
+
+![similitudesmot](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mot.png)
+
 
 ## Fichier Question Devoir
 
