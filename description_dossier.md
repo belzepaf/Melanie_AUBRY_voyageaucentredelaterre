@@ -75,13 +75,13 @@ Ici, j'ai réglé les paramètres de façon à ce que l'analyse se fasse sur la 
 * Sur des occurences supérieures ou égales à 50 :
 ![similitudes50](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_50.png)
 
-* Avec comme paramètre __multilevel.community__ ainsi que __Communautés__ et __halo__ d'actifs :
+* Avec comme paramètre __multilevel.community__ ainsi que __Communautés__ et __halo__ d'actifs, afin de pouvoir répartir l'ensemble les cooccurences selon plusieurs groupes :
 ![similitudesmot](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_3.png)
 
 
 #### Indice de Mountford
 
-Cet indice de Mountford note la force des affinités de 0 à 1. La comparaison est beaucoup plus simple car de type : présent/absent.
+Cet indice de Mountford note la force des affinités de 0 à 1, grâce à l'épaisseur du lien entre les mots. La comparaison est beaucoup plus simple car de type : présent/absent. Comme nous pourrons le voir, plus les occurences sont limitées à un grand nombre, plus la visibilité augmente.
 
 * Sur la totalité :
 ![similitudesmountford](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mountford.png)
@@ -106,11 +106,21 @@ On peut constater que selon les degrés de fréquence et de sélection des varia
 
 ### Méthode Reinhert
 
+La classification de Reinert permet de classer les formes dans des classes de formes regroupées selon leur indépendance mesurée par un test au Chi². Ces mêmes classes peuvent alors être représentées à l'aide de différents arbres, comme ici avec un dendrogramme :
+
 ![dendrogramme](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/dendrogramme_1.svg)
+
+Ce diagramme fournit la liste des formes les plus associées pour chaque classe. A noter qu’une forme peut se retrouver dans plusieurs classes différentes. Une classe est un regroupement de segments de texte qui contiennent des formes. Le graphique ci-dessus facilite le repérage des formes et leur degré de dépendance aux classes. 
+
+Avec ce classement par dendrogramme, on peut effectuer par la suite un AFC, car le tableau donné par la classification de Reinert utilise des classes dans le tableau lexical. 
 
 ![similitudescolor](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/AFC2DL.png)
 
+Les formes colorées correspondent aux classes de la méthode Reinert et permettent de repérer leur organisation sur deux dimensions.
+
 #### Analyse d'un mot en particulier
+
+Lorsque l'on applique la classification de Reinert, comme je l'ai dit précédemment, nous avons un tableau qui nous est donné. Il est possible d'analyse un ou plusieurs mots de ce tableau avec une analyse des cooccurences.
 
 Analyse des cooccurences du mot __"savant"__ sur 2 chapitres
 
@@ -118,7 +128,7 @@ Analyse des cooccurences du mot __"savant"__ sur 2 chapitres
 
 ## Fichier Gephi
 
-Analyse des similitudes avec l'indice de Mountford sur des occurrences supérieures ou égales à 10
+Analyse des similitudes avec l'indice de Mountford sur des occurrences supérieures ou égales à 10 :
 
 ![gephi](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/gephi.png)
 
