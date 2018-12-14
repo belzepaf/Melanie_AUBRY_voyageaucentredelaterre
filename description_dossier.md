@@ -116,6 +116,11 @@ Analyse des cooccurences du mot __"savant"__ sur 2 chapitres
 
 ![similitudesmot](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/graph_simi_mot.png)
 
+## Fichier Gephi
+
+Analyse des similitudes avec l'indice de Mountford sur des occurrences supérieures ou égales à 10
+
+![gephi](https://github.com/belzepaf/Melanie_AUBRY_voyageaucentredelaterre/blob/master/visualisation/gephi.png)
 
 ## Fichier Question Devoir
 
